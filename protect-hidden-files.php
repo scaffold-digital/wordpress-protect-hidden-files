@@ -2,7 +2,7 @@
 /**
 *  Plugin Name:    Protect Hidden Files
 *  Plugin URI:     https://github.com/scaffold-digital/wordpress-protect-hidden-files
-*  Description:    Ensure that hidden (dot) files cannot be accessed on your site
+*  Description:    Ensure that hidden (dot) files (such as .git) cannot be accessed on your Wordpress site
 *  Author:         Scaffold Digital
 *  Author URI:     https://scaffold.digital
 *  Version:        1.0.0
